@@ -15,7 +15,6 @@ No. Absen : 22
 Kelas : TI-2A
   
 * Anggota 3 
-
 Nama : Rio Febriandistra Adi  
 NIM : 1841720109  
 No. Absen : 25  
