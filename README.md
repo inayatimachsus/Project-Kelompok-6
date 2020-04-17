@@ -5,17 +5,17 @@
 * Anggota 1  
 Nama : Inayati Machsus Izza Addin  
 NIM : 1841720202  
-No. Absen : 13  
+No. Absen : 14  
 Kelas : TI-2A
   
 * Anggota 2  
 Nama : Qorinda Yulvarisma  
 NIM : 1841720084  
-No. Absen : 22  
+No. Absen : 23  
 Kelas : TI-2A
   
 * Anggota 3  
 Nama : Rio Febriandistra Adi  
 NIM : 1841720109  
-No. Absen : 25  
+No. Absen : 26  
 Kelas : TI-2A
