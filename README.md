@@ -19,3 +19,6 @@ Nama : Rio Febriandistra Adi
 NIM : 1841720109  
 No. Absen : 26  
 Kelas : TI-2A
+ 
+> --- Link Video Progress ---  
+https://www.youtube.com/watch?v=dYi0DkDFrAc
